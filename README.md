@@ -1,5 +1,5 @@
 # Sentimental-Analysis-Zepto
-# Sentiment Analysis with Zepto
+
 
 This project provides a Python script (`main.py`) for performing sentiment analysis on review text data, specifically targeting "Fast Delivery Agent Reviews" which is implied to be related to Zepto based on the file path in the code. It uses the `nltk` library's VADER (Valence Aware Dictionary and sEntiment Reasoner) lexicon to analyze sentiment and classifies reviews as Positive, Negative, or Neutral. The results, including sentiment scores, classifications, and percentages, are saved to an Excel file with conditional formatting applied to highlight sentiments for easy visualization.
 
